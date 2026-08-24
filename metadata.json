@@ -1,0 +1,6 @@
+{
+  "name": "HMS ROI Calculator",
+  "description": "Enterprise Hospital Management System ROI & Financial Business Case Calculator for sales managers to project labor savings, denial reductions, and bed turnaround revenue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
